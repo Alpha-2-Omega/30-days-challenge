@@ -9,4 +9,5 @@ Day 3 - Solved a LeetCode problem and built the HTML and CSS for the Rock Paper 
 --
 Day 4 - solved a LeetCode problem and Revised loops, Arrays and function in JavaScript.
 --
-
+Day 5 - solved a question on LeetCode.
+--
