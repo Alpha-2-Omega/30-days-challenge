@@ -12,5 +12,7 @@ Day 4 - solved a LeetCode problem and Revised loops, Arrays and function in Java
 Day 5 - solved a question on LeetCode.
 --
 Day 6 - did basic questions of functions in JavaScript
-[JavaScript-functions](https://github.com/Alpha-2-Omega/JavaScript-functions)
+[Questions](https://github.com/Alpha-2-Omega/JavaScript-practice)
 --
+Day 7 - solved DSA questions 
+[Questions](https://github.com/Alpha-2-Omega/JavaScript-practice)
