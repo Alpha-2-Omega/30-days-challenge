@@ -16,3 +16,6 @@ Day 6 - did basic questions of functions in JavaScript
 --
 Day 7 - solved DSA questions 
 [Questions](https://github.com/Alpha-2-Omega/JavaScript-practice)
+--
+Day 8 - solved DSA questions
+--
