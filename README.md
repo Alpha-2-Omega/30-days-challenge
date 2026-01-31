@@ -25,3 +25,5 @@ Day 10 - solved a DSA question
 --
 Day 11 - solved a DSA question
 --
+Day 12 - DSA question - isomorphic strings, check whether one string is a rotation of another, Check if two strings are anagram of each other.
+--
