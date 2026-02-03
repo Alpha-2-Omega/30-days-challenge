@@ -29,3 +29,5 @@ Day 12 - DSA question - isomorphic strings, check whether one string is a rotati
 --
 Day 13 - DSA question - Roman Number to Integer and vice versa
 --
+Day 14 - learn some concepts of DBMS and sql commands
+--
