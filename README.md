@@ -33,3 +33,5 @@ Day 14 - learn some concepts of DBMS and sql commands
 --
 Day 15 - read about DOM 
 --
+Day 16 - build JS of rock-paper-scissors project
+--
