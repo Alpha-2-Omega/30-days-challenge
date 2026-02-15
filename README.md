@@ -1,6 +1,6 @@
 # 30-days-challenge
 
-Day 1 - solved questions of a bootcamp.
+Day 1 - solved a DSA question
 --
 Day 2 - Make the Readme file of my Quiz-app repo.
 --
@@ -34,4 +34,6 @@ Day 14 - learn some concepts of DBMS and sql commands
 Day 15 - read about DOM 
 --
 Day 16 - build JS of rock-paper-scissors project
+--
+Day 17 - updated the html and css of my Portfolio
 --
